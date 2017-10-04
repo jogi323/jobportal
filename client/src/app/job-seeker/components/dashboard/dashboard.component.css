@@ -1,0 +1,6 @@
+.calendar .fc-row.fc-week.fc-widget-content.fc-rigid{
+    height: 100px !important;
+}
+.calendar{
+    height: 500px !important;
+}
